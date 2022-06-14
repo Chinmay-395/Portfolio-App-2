@@ -1,8 +1,10 @@
 import React from "react";
 // import ReactDOM from "react-dom";
-import { VerticalTimeline, VerticalTimelineElement } from "./Timeline";
-import "./Timeline/VerticalTimeline.css";
-import "./Timeline/VerticalTimelineElement.css";
+import {
+  VerticalTimeline,
+  VerticalTimelineElement,
+} from "react-vertical-timeline-component";
+import "react-vertical-timeline-component/style.min.css";
 import { MdFavorite, MdWbSunny, MdBrightness3 } from "react-icons/md";
 
 function Timeline() {
@@ -102,4 +104,4 @@ function Timeline() {
   );
 }
 
-module.exports = Timeline;
+export default Timeline;

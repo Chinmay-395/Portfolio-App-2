@@ -1,11 +1,17 @@
 import React from "react";
 import { Container } from "react-bootstrap";
-import VerticalTimeline from "./VerticalTimeline";
+import Timeline from "./VerticalTime";
 function WorkExp() {
   return (
     <Container fluid className="about-section">
+      <h1
+        style={{ justifyContent: "center", paddingBottom: "50px" }}
+        className="project-heading"
+      >
+        <strong className="purple">Work</strong> Experience
+      </h1>
       <Container>
-        <VerticalTimeline />
+        <Timeline />
       </Container>
     </Container>
   );
