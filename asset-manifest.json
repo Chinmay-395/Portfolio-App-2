@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Portfolio-App-2/static/css/main.ea7bcd8a.css",
+    "main.js": "/Portfolio-App-2/static/js/main.ffe4f6d3.js",
+    "static/js/415.4d6acbeb.chunk.js": "/Portfolio-App-2/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Portfolio-App-2/static/js/787.1ed0c42c.chunk.js",
+    "static/media/codeEditor.png": "/Portfolio-App-2/static/media/codeEditor.ba9458794dca1c746ef2.png",
+    "static/media/blog.png": "/Portfolio-App-2/static/media/blog.52102140f369ea233010.png",
+    "static/media/Chinmay_Dali_s_Resume.pdf": "/Portfolio-App-2/static/media/Chinmay_Dali_s_Resume.8b3cb4580a1773942870.pdf",
+    "static/media/chatify.png": "/Portfolio-App-2/static/media/chatify.9373eddae1a258056c35.png",
+    "static/media/leaf.png": "/Portfolio-App-2/static/media/leaf.4c15d6eb3fc75cfef85b.png",
+    "static/media/home-main.svg": "/Portfolio-App-2/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/suicide.png": "/Portfolio-App-2/static/media/suicide.b72f1f9ffeb4775a7803.png",
+    "static/media/home-bg.jpg": "/Portfolio-App-2/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/emotion.jpeg": "/Portfolio-App-2/static/media/emotion.e92e314a236f65bb89af.jpeg",
+    "static/media/avatar.svg": "/Portfolio-App-2/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/Portfolio-App-2/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/Portfolio-App-2/index.html",
+    "main.ea7bcd8a.css.map": "/Portfolio-App-2/static/css/main.ea7bcd8a.css.map",
+    "main.ffe4f6d3.js.map": "/Portfolio-App-2/static/js/main.ffe4f6d3.js.map",
+    "415.4d6acbeb.chunk.js.map": "/Portfolio-App-2/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Portfolio-App-2/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea7bcd8a.css",
+    "static/js/main.ffe4f6d3.js"
+  ]
+}
