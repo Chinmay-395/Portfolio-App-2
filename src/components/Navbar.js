@@ -15,7 +15,11 @@ import {
 } from "react-icons/ai";
 
 import { CgFileDocument } from "react-icons/cg";
-
+const openInNewTab = (url) => {
+  console.log("HEY I RANS");
+  const newWindow = window.open(url, "_blank", "noopener,noreferrer");
+  if (newWindow) newWindow.opener = null;
+};
 function NavBar() {
   const [expand, updateExpanded] = useState(false);
   const [navColour, updateNavbar] = useState(false);
@@ -84,9 +88,11 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                as={Link}
+                // as={Link}
                 to="/resume"
-                onClick={() => updateExpanded(false)}
+                onClick={() =>
+                  openInNewTab("https://chinmay-395.github.io/Resume/")
+                }
               >
                 <CgFileDocument style={{ marginBottom: "2px" }} /> Resume
               </Nav.Link>
